@@ -1,5 +1,5 @@
 # labpy3
-1.) Latihan 1 py ALGORITMA ALUR
+A.) Latihan 1 py ALGORITMA ALUR
 
     a. import random
     b. n = int(input("Masukan nilai N : "))
@@ -30,7 +30,7 @@ CODINGAN LATIHAN1PY
     ![img](https://github.com/Khoiriladinata/labpy3/blob/master/latihan1py.PNG)
 
 
-Latihan 2 py ALGORITMA ALUR
+B).Latihan 2 py ALGORITMA ALUR
 
     a=1
     max=0
@@ -72,7 +72,7 @@ CODINGAN LATIHAN 2 py
 
 
 
-Program 1 py ALGORITMA ALUR
+C).Program 1 py ALGORITMA ALUR
 
     x=100000000 modal 100,000,000, 
 1. variable x
