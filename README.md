@@ -27,7 +27,7 @@ CODINGAN LATIHAN1PY
     
     print("Selesai")
     
-    ![img](https://github.com/Khoiriladinata/labpy3/blob/master/latihan1py.PNG)
+![img](https://github.com/Khoiriladinata/labpy3/blob/master/latihan1py.PNG)
 
 
 B).Latihan 2 py ALGORITMA ALUR
