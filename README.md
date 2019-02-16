@@ -26,6 +26,8 @@ CODINGAN LATIHAN1PY
     print ("Data ke : ", i, "=> ", a)
     
     print("Selesai")
+    
+    ![img](https://github.com/Khoiriladinata/labpy3/blob/master/latihan1py.PNG)
 
 
 Latihan 2 py ALGORITMA ALUR
@@ -64,6 +66,11 @@ CODINGAN LATIHAN 2 py
          break
         
     print ('Nilai terbesarya adalah :',max)
+
+
+![img](https://github.com/Khoiriladinata/labpy3/blob/master/latihan2py.PNG)
+
+
 
 Program 1 py ALGORITMA ALUR
 
@@ -107,3 +114,6 @@ CODINGAN PROGRAM 1 py
     print('Laba bulan ke-', y ,'sebesar            :', i)
 
     print('Total laba yang didapat adalah      :', sum)
+
+
+![img](https://github.com/Khoiriladinata/labpy3/blob/master/praktikum3.PNG)
